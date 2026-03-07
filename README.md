@@ -28,3 +28,11 @@ source .venv/bin/activate   # Mac/Linux
 # or: source .venv/Scripts/activate  (Windows Git Bash)
 pip install -r requirements-prework.txt
 ```
+
+## How to run
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Activate the virtual environment
+4. Install required dependencies
+5. Run the project and confirm it works
